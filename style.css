@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.foto{
+    width:250px;
+    height:150px;
+    padding:10px;
+    padding-left:40px;
+    justify-content:center;
+    display:flex;
+    alignitems:center;
+}
+.jasakirim{
+    margin-top:5%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.tinggi{
+    height:80%;
+}
+
+.foto{
+    height:80px;
+    width:100px;
+}
